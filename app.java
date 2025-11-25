@@ -17,11 +17,19 @@ public class HelloWorld {
     }
 }
 
+ Updated upstream
 
 //dev2 code
 
 public class Main {
   public static void main(String[] args) {
+=======
+new code added without pull the code
+
+public class Main {
+  public static void main(String[] args) {
+    // This is a comment
+>>>>>>> Stashed changes
     System.out.println("Hello World");
   }
 }
